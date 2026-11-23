@@ -5,6 +5,13 @@ A working record of open-source contribution research, validation and outcomes, 
 **Status (2026-11-05): research complete, no contribution started.** Nothing in this repository has been
 submitted upstream.
 
+## Repositories
+
+Both repositories live in the [bukzie-opensource](https://github.com/bukzie-opensource) organization:
+
+- [`bukzie-opensource/open-source-contributions`](https://github.com/bukzie-opensource/open-source-contributions): this tracking repository.
+- [`bukzie-opensource/mutmut`](https://github.com/bukzie-opensource/mutmut): fork of [boxed/mutmut](https://github.com/boxed/mutmut), kept as a separate repository for contribution work (candidates 1 and 4).
+
 ## What is here
 
 | Path | Purpose |

@@ -24,3 +24,11 @@ built and compared with GC suspension (naive and hardened) and `__del__` exclusi
 `set()` only) proved insufficient in our runs; both nested `get()` and nested `set()`/`reset()` must be guarded.
 Independent review: defensible as a mitigation. Implementation code and the maintainer-alignment draft are kept
 private and unpushed. No upstream comment, fork, PR or merge occurred. Next decision: owner.
+
+## 2026-11-22: Repositories moved to the bukzie-opensource organization
+
+- `open-source-contributions` and the `mutmut` fork were transferred from the personal account to
+  `bukzie-opensource`. Old URLs redirect. Both remain public.
+- Git commits in this repository carry no AI provider co-author trailers. AI assistance is recorded in
+  documentation (see `docs/`), not as Git authors or co-authors.
+- `mutmut` history was not rewritten: its AI trailers belong to upstream contributors' commits.
